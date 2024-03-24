@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535910472263",
+    "project_id": "quite-mate",
+    "storage_bucket": "quite-mate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535910472263:android:1a76d0aadf2b7e7162af62",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoQiIqkQ4ECLGPsFcH2JjxYrvIvINhC5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
