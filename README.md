@@ -1,6 +1,6 @@
-# flutter_application_1
+# Quite Mate
 
-A new Flutter project.
+comprehensive smoke tracking app
 
 ## Getting Started
 
